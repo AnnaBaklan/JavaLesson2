@@ -8,3 +8,4 @@ public class MyArrayDataException extends Exception {
         super(String.format(ERROR_MESSAGE, i, j, message));
     }
 }
+
